@@ -4,7 +4,7 @@ _Software engineer_ <br>
 
 [LinkedIn](https://www.linkedin.com/in/phillip-huy-le/) / [GitHub](https://github.com/phillip-le/)
 
-## Core Skills
+## Key Skills
 - Event Driven Architecture
 - Microservice Architecture
 - Proficiency in working with a CI/CD environment
@@ -38,3 +38,15 @@ A leading global mining group.
   - Investigated the value proposition of using Kubeflow vs SageMaker for ML pipelines
   - **_Technologies used:_** Azure DevOps, Kubernetes, Kubeflow, TerraForm, AWS CDK, CloudFormation, SageMaker
 <br><br>
+
+## Education
+
+**Bachelor of Computer Science** @ [The University of Queensland](https://www.uq.edu.au/) _(2019 - 2021)_ <br>
+Majoring in Data Science
+
+Academic Achievements
+- Rio Tinto Excellence Future Skills Scholarship (2020)
+- Prentice Scholar (2020)
+- Dean's Commendation for Academic Excellence (2019 - 2021)
+- UQ Vice-Chancellor's Scholarship (2019)
+- QCAA Distinguished Academic Achiever
